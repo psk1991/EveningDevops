@@ -1,1 +1,3 @@
 this is new file
+This is also new thing to know 
+how git is verifyed 
