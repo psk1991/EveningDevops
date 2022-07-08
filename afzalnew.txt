@@ -2,3 +2,4 @@ this is new file
 This is also new thing to know 
 how git is verifyed 
 To verify multiple file changes at same time
+This is new update to do afzal make sure 
